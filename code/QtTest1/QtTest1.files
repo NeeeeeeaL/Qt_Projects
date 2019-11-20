@@ -1,0 +1,9 @@
+QtTest1/QtTest1.cpp
+QtTest1/QtTest1.h
+QtTest1/main.cpp
+QtTest1/x64/Debug/moc/moc_QtTest1.cpp
+QtTest1/x64/Debug/rcc/qrc_QtTest1.cpp
+QtTest1/x64/Debug/uic/ui_QtTest1.h
+QtTest1/x64/Release/moc/moc_QtTest1.cpp
+QtTest1/x64/Release/rcc/qrc_QtTest1.cpp
+QtTest1/x64/Release/uic/ui_QtTest1.h
